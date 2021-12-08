@@ -1,0 +1,11 @@
+.pencil:hover{
+    /* color: grey; */
+    background-color: red;
+    border-radius: 5px;
+}
+
+.delete:hover{
+    /* color: green; */
+    background-color: green;
+    border-radius: 5px;
+}
